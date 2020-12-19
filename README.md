@@ -40,16 +40,27 @@ Interatie Advior ealuated following metrics, (Source: Investopedia)
 https://www.investopedia.com/interactive-advisors-review-4685247
 
 In Brief below matrics is for Interactive Adisor. 
+
 EVALUATION CATEGORIES
+
 Review Category	Weighting	Variables
+
 Account Setup	  5%	6
+
 Goal Setting	15%	4
+
 Account Services	10%	8
+
 Portfolio Construction	15%	7
+
 Portfolio Management	20%	4
+
 User Experience	15%	6
+
 Customer Service	  5%	5
+
 Education & Security	  5%	6
+
 Fees	10%	5
 		
 Each investor has different needs. Beginners need a robo platform with an easy-to-use interface and educational resources, whereas more advanced users need risk analysis tools, trading platforms, portfolio management, and more goals-based options. 
