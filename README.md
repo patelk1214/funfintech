@@ -5,11 +5,7 @@ Robo Advisory: Fintech Revolutionizing Investing
 Robo Advisors are digital platforms that provide automated, algorithm-driven financial planning services with little to no human supervision. Robo-advisors provide services, not financial planning, which is a critical component of financial success. Robo-advisor enables its customers to construct portfolio as per one’s goal to without interacting with human being. Robo-advisors don't necessarily protect against forgetting to contribute to investments, selling low or buying high, or panicking and making irrational decisions.
 Working with a Robo-advisor provides a low-cost solution to investors. 
 
-* Name of company: 
-* When was the company incorporated?
-* Who are the founders of the company?
-* How did the idea for the company (or project) come about?
-* How is the company funded? How much funding have they received?
+## Case Study of company: Interactive Avisor
 
 Interactive Advisor, Parent company Interactive Brokers Group, Inc.'s (IBRK)
 
